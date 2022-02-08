@@ -1,4 +1,4 @@
-# vb
+# frontend
 
 ## Project setup
 ```
